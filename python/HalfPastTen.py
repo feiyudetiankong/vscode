@@ -5,3 +5,5 @@ if int(money)< 0:
     print("输入有误，请重新输入！")
 else:
     print("玩家的筹码数为："+money)
+    print("hi")
+    

@@ -1,0 +1,11 @@
+[MAIN]
+# 个人学习练习代码仓库：只保留错误级检查，放宽风格类规则
+disable=
+    missing-module-docstring,
+    missing-class-docstring,
+    missing-function-docstring,
+    invalid-name,
+    missing-final-newline,
+    consider-using-f-string,
+    redefined-builtin,
+    useless-else-on-loop

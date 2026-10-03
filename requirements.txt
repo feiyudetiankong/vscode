@@ -1,2 +1,2 @@
 # CI 依赖（pylint workflow 与 dependabot pip 生态共用）
-pylint>=3.0
+pylint>=4.1.1
